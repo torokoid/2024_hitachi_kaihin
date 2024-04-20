@@ -174,7 +174,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_072.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_072.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>今回のルート、クリックで地図が開きます。</p>
-<a href="https://maps.app.goo.gl/43Fvv2abyxechrp19" target="_blank"><img src="20240420_000.png" alt="サンプル画像" width="900" /></a>
+<a href="https://maps.app.goo.gl/pLWTtz3YLSKvukpj7" target="_blank"><img src="20240420_00.png" alt="サンプル画像" width="900" /></a>
 
 
 
