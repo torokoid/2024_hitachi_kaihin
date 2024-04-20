@@ -117,9 +117,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_009.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_010.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_011.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_012.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_013.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_014.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_014.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_015.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_016.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_017.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_017.JPG" alt="サンプル画像" width="900" /></a>
@@ -144,8 +142,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_036.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_037.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_038.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_038.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_039.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_039.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_040.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_040.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_041.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_042.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_043.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_043.JPG" alt="サンプル画像" width="900" /></a>
@@ -161,9 +158,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_053.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_054.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_054.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_055.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_055.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_056.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_056.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_057.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_057.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_058.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_058.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_059.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_060.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_061.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_061.JPG" alt="サンプル画像" width="900" /></a>
@@ -173,12 +168,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_065.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_065.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_066.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_067.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_067.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_068.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_068.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_069.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_069.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_070.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_070.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_071.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_072.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_072.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/2024_hitachi_nemophira/20240420_073.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024_hitachi_nemophira/20240420_073.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>今回のルート、クリックで地図が開きます。</p>
 <a href="https://maps.app.goo.gl/43Fvv2abyxechrp19" target="_blank"><img src="20240420_000.png" alt="サンプル画像" width="900" /></a>
